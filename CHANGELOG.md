@@ -2,6 +2,25 @@ php Cookbook CHANGELOG
 ======================
 This file is used to list changes made in each version of the php cookbook.
 
+v1.3.10
+-------
+Fixing my stove
+
+
+v1.3.8
+------
+Version bump to ensure artifact sanity
+
+
+v1.3.6
+------
+Version bump for toolchain
+
+
+v1.3.4
+------
+Adding platform_family check to include_recipe in source.rb
+
 
 v1.3.2
 ------
